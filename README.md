@@ -16,6 +16,6 @@ Features
 
 Technologies Used
 
-HTML5
-CSS3 (Bootstrap 5)
+HTML5 
+CSS3 (Bootstrap 5) 
 JavaScript (Bootstrap JavaScript)
