@@ -1,4 +1,4 @@
-# Bootstrap-website
+# Bootstrap-Practice-Frontend-Bootcamp
 
 This repository contains a clone of a Frontend Bootcamp website, recreated solely for the purpose of practicing Bootstrap framework. The website mimics the design and functionality of the original bootcamp site, serving as a learning exercise to understand Bootstrap's features and capabilities.
 
